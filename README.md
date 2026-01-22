@@ -1,17 +1,15 @@
 # 🔮 The Ultimate AI Agents List (That Actually Matters)
 **For builders who want to ship agents, not collect bookmarks**
 
-[![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=social)](https://github.com/e2b-dev/awesome-ai-agents)
-[![Last Updated](https://img.shields.io/badge/last%20updated-December%202024-brightgreen)](https://github.com/e2b-dev/awesome-ai-agents)
-[![Join Discord](https://img.shields.io/discord/1234567890?color=mediumslateblue&label=Join%20our%20Discord)](https://discord.gg/U7KEcGErtQ)
+[![Last Updated](https://img.shields.io/badge/last%20updated-January%202025-brightgreen)]()
+[![Tools Listed](https://img.shields.io/badge/tools%20listed-100+-blue)]()
+[![The Agentic Advantage](https://img.shields.io/badge/🚀%20Join%20The%20Community-black)](https://www.skool.com/ai-elite-9507/about?ref=67521860944147018da6145e3db6e51c)
 
 Stop drowning in tool lists. This is the **only** AI agents resource you need - battle-tested by developers who've actually shipped with these tools.
 
 I'm tired of seeing "awesome lists" that are just link farms. This one's different. Every tool here has been evaluated, many have been used in production, and I'll tell you exactly what works and what doesn't.
 
-**👉 [Submit new tools here](https://forms.gle/UXQFCogLYrPFvfoUA) | 🌟 [Browse the visual version](https://e2b.dev/ai-agents)**
-
-![AI Agents Landscape](assets/landscape-latest.png)
+> 💡 **Want to go from reading about tools to actually building with them?** [Join The Agentic Advantage](https://www.skool.com/ai-elite-9507/about?ref=67521860944147018da6145e3db6e51c) - where builders ship AI products weekly.
 
 ---
 
