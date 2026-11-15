@@ -355,6 +355,15 @@ Multi-agent system that takes datasets and produces complete research papers. Ac
 
 ---
 
+### [No Stairs Please MCP](https://nostairsplease.com/mcp)
+*Touring & live-music venue discovery MCP server*
+
+Hosted remote MCP server for musicians and booking agents to search verified live-music venues across the US and British Columbia, plan tour routes, and inspect stage/load-in and booking details.
+
+**Links**: [MCP Endpoint](https://nostairsplease.com/mcp) | [Website](https://nostairsplease.com/)
+
+---
+
 ## Development & Coding Agents
 
 ### [GPT Engineer](https://gptengineer.app/)
